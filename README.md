@@ -62,6 +62,6 @@ Column Name	Type	Description
 
 The database contains the following tables:
 
-~ orders: Contains general order details.
+- orders: Contains general order details.
 
-~ order_items: Contains details of the pizzas in each order.
+- order_items: Contains details of the pizzas in each order.
